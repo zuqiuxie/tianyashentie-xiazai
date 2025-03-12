@@ -1,6 +1,6 @@
 {
-  "author": "彬少",
-  "description": "读书笔记",
+  "author": "合集",
+  "description": "天涯神贴",
   "extension": null,
   "generator": "site",
   "isbn": "9787121324758",
@@ -13,7 +13,7 @@
 	  "weibo": null
 	},
 	"sidebar": {
-	  "读书笔记": "https://reading-notes.wangbin.run/"
+	  "读书笔记": "https://tianya.zhihu.blog/"
 	}
   },
   "output": null,
@@ -31,6 +31,6 @@
 	"paperSize": "a4"
   },
   "plugins": [],
-  "title": "读书笔记",
+  "title": "天涯神贴",
   "variables": {}
 }
