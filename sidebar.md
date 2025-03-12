@@ -1,12 +1,10 @@
-[我读的书](https://book.wangbin.run/)   [我的网站](https://blog.wangbin.run/)
+[知乎博客](https://zhihu.blog/)   [杂志大全](https://zazhi.zhihu.blog/)
 
 ---
 
 # [《天涯神贴-合集》]()
 
-作者：彬少
-
-### [读书进度](#README)
+### [神贴目录](#README)
 
 ## 1.【天涯210+神帖】
 
